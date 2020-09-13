@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+h2{
+    text-align: center;
+    color: tomato;
+}
+
+.forms{
+   margin-left: auto;
+   margin-right: auto;
+   width: 300px;
+    padding: 26px;
+    background-color: white;
+   
+    
+}
+.form-item{
+    
+    margin-top: 12px;
+    width: 100%;;
+     border-top: none;
+    border-left: none;
+    border-right: none;
+    opacity: 50%;
+}
